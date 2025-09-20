@@ -1,4 +1,3 @@
----
 
 # 🛠️ Week 0 – Tool Installation & Setup
 
@@ -14,7 +13,7 @@ This includes:
 
 The program aims to provide hands-on experience in the **RTL → GDSII design flow**, using open-source tools to understand the complete VLSI process.
 
----
+
 
 ## **2. System Requirements** 💻
 
