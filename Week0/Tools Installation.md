@@ -140,4 +140,28 @@ $ sudo make install
   <br>
   <b>🟢Ngspice was successfully installed</b>
 </p>
+---
+
+### **5. Magic – VLSI Layout Tool**
+**Purpose:**
+It is an open-source VLSI layout tool used for designing and verifying integrated circuits.
+
+**Installation Steps:**
+```bash
+$ sudo apt-get install m4 tcsh csh libx11-dev tcl-dev tk-dev libcairo2-dev mesa-common-dev libglu1-mesa-dev libncurses-dev
+$ git clone https://github.com/RTimothyEdwards/magic
+$ cd magic
+$ ./configure
+$ make
+$ sudo make install
+```
+---
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/79a62a0e-defd-4e2d-ad05-de05cc44c2ae" width="500" alt="Magic Installation Screenshot">
+  <br>
+  <b>🟢 Magic was installed successfully</b>
+</p>
+
+
+
  
