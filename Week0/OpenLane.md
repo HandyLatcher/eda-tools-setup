@@ -152,3 +152,5 @@ make test
   <br>
   <b>🐳 Docker was successfully installed</b>
 </p>
+
+---
