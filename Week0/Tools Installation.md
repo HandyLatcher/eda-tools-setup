@@ -61,4 +61,5 @@ $ make config-gcc
 $ make
 $ sudo make install 
 ```
-<!-- Uploading "Screenshot (1).png"... -->
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ae23e4b2-28af-4c79-9878-72b7cb97a402" />
+
