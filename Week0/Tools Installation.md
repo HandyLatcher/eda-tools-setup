@@ -35,8 +35,47 @@ Additionally, the tools will be installed and executed inside a **Virtual Machin
 
 ---
 
-## **3. Tools for Week0 Setup⚙️
+## 3. Tools for Week0 Setup⚙️
 
 This week focuses on installing the essential open-source tools for VLSI design. The tools include **Yosys** for RTL synthesis, **Icarus Verilog** for simulation, **GTKWave** for waveform analysis, **Ngspice** for circuit simulation, and **Magic VLSI** for layout design.
+
+---
+Perfect! Let’s create a **clean, professional section just for Yosys** for your Week0 Tool Installation file. I’ll format it properly with headings, purpose, and installation commands.
+
+---
+
+### **1. Yosys – RTL Synthesis Tool** 🟦
+
+**Purpose:**
+Yosys is an **open-source RTL synthesis tool** used to convert Verilog designs into gate-level netlists. It is essential for **logic synthesis, verification, and preparing designs for further VLSI implementation**.
+
+**Installation Steps:**
+
+```bash
+# Update system packages
+sudo apt-get update
+
+# Clone Yosys repository
+git clone https://github.com/YosysHQ/yosys.git
+cd yosys
+
+# Install dependencies
+sudo apt install make build-essential clang bison flex libreadline-dev gawk tcl-dev libffi-dev git graphviz xdot pkg-config python3 libboost-system-dev libboost-python-dev libboost-filesystem-dev zlib1g-dev
+
+# Build Yosys
+make config-gcc
+make
+
+# Install Yosys
+sudo make install
+```
+
+**Verification:**
+
+```bash
+yosys -V
+```
+
+> This command prints the installed Yosys version, confirming that the tool is successfully installed.
 
 ---
