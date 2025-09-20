@@ -69,5 +69,39 @@ $ sudo make install
   <b>🟢Yosys was successfully installed</b>
 </div>
 
+---
 
+### **2. Icarus Verilog – Simulation Tool** 🟩
 
+**Purpose:**
+Icarus Verilog (iverilog) is an **open-source Verilog simulator**. It is used to **compile and simulate Verilog RTL designs**, allowing verification of logic correctness before synthesis and hardware implementation.
+
+**Installation Steps:**
+
+```bash
+# Update system packages
+sudo apt-get update
+
+# Install Icarus Verilog
+sudo apt-get install iverilog
+```
+
+**Verification:**
+
+```bash
+iverilog -v
+```
+
+> This command prints the installed Icarus Verilog version, confirming that the tool is successfully installed.
+
+---
+
+**Optional Success Message with Emoji (centered and bold):**
+
+```html
+<div align="center">
+  <b>✅ Icarus Verilog was successfully installed!</b>
+</div>
+```
+
+---
