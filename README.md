@@ -73,10 +73,13 @@ Special thanks to <a href="https://github.com/kunalg123">Kunal Ghosh</a> and the
 🚀 We are now ready to begin our VSD SoC Tapeout journey!
 </p>
 
-<h2 align="center">👨‍💻 Participant</h2>
+<h2 align="center" style="text-align:center;">
+👨‍💻 Participant&nbsp;&nbsp;
+</h2>
 <div align="center">
   <span style="display:inline-block;text-align:center;width:100%;">
-    &nbsp;&nbsp;<a href="https://github.com/HandyLatcher">HandyLatcher</a>
+    <a href="https://github.com/HandyLatcher">HandyLatcher</a>
   </span>
 </div>
+
 
