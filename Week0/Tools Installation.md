@@ -65,6 +65,7 @@ $ sudo make install
   <img width="600" alt="Yosys Installation Screenshot" src="https://github.com/user-attachments/assets/1821d3df-59b3-41f0-a0ea-f0c45a76db2b" />
 </div>
 
+<div align="center">
 **Yosys was successfully installed**
 </div>
 
