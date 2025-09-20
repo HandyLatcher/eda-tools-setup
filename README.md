@@ -50,8 +50,6 @@ The first milestone was preparing the environment with essential tools:
 ---
 
 
-## 🙏 Acknowledgment
-
 ## 🙏 Acknowledgment  
 
 Special thanks to [Kunal Ghosh](https://github.com/kunalg123) and the [**VSD Team**](https://vsdiat.vlsisystemdesign.com/) for pioneering this opportunity and guiding thousands of participants in making open-source silicon a reality.  
@@ -79,5 +77,3 @@ Special thanks to [Kunal Ghosh](https://github.com/kunalg123) and the [**VSD Tea
 </p>  
 
 ---
-
-Would you like me to also design a **badges section** at the top (like GitHub Shields for Tools Installed, Program Name, Progress Status)? That would make the README look even more professional.
