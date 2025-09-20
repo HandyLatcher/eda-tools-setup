@@ -66,7 +66,7 @@ $ sudo make install
 </div>
 
 <div align="center">
-  <b>Yosys was successfully installed</b>
+  <b>🟢Yosys was successfully installed</b>
 </div>
 
 
