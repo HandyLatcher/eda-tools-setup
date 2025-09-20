@@ -1,4 +1,9 @@
-# **🖥️ RISC-V SoC Tapeout Journey — VSD Program**
+# **RISC-V SoC Tapeout Journey — VSD Program**
+<p align="center">
+  <img src="https://img.shields.io/badge/🖥️-RISC--V-blue?style=for-the-badge&logo=riscv" alt="RISC-V Badge">
+  <img src="https://img.shields.io/badge/📚-VSD--Program-orange?style=for-the-badge&logo=read-the-docs" alt="VSD Program Badge">
+  <img src="https://img.shields.io/badge/⚙️-Open--Source--Journey-green?style=for-the-badge&logo=github" alt="Open-Source Journey Badge">
+</p>
 
 Welcome! 🎉
 This repository is a personal log of my participation in the **VLSI System Design (VSD) RISC-V SoC Tapeout Program** — India’s largest open-source silicon design initiative.
