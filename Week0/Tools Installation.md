@@ -2,7 +2,7 @@
 ## **🛠️ Week 0 – Tool Installation & Setup**
 <div align="center">
 
-[![Program](https://img.shields.io/badge/Program-VSD%20SoC%20Tapeout-orange?style=for-the-badge) [![Week 0](https://img.shields.io/badge/Week-0-blue?style=for-the-badge)](#)  
+![Program](https://img.shields.io/badge/Program-VSD%20SoC%20Tapeout-orange?style=for-the-badge) [![Week 0](https://img.shields.io/badge/Week-0-blue?style=for-the-badge)](#)  
 
 </div>
 
