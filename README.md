@@ -1,12 +1,4 @@
-Perfect 🙌 Thanks for sharing the reference.
-I’ll create a **fresh, unique, polished README** for your repo based on the background you gave.
-It will keep the **spirit of the SoC Tapeout journey**, but with new wording, emojis, and structure to make it stand out.
-
-Here’s my version:
-
----
-
-# 🖥️ RISC-V SoC Tapeout Journey — VSD Program
+# **🖥️ RISC-V SoC Tapeout Journey — VSD Program**
 
 Welcome! 🎉
 This repository is a personal log of my participation in the **VLSI System Design (VSD) RISC-V SoC Tapeout Program** — India’s largest open-source silicon design initiative.
@@ -52,22 +44,12 @@ The first milestone was preparing the environment with essential tools:
 
 ---
 
-## 🎯 Program Goals
-
-| Aspect                | Details                                                                   |
-| --------------------- | ------------------------------------------------------------------------- |
-| 🎓 Learning Path      | RTL → Synthesis → Physical Design → Tapeout                               |
-| 🛠️ Tools Focus       | Open-Source EDA Ecosystem (Yosys, OpenLane, Magic, Ngspice, etc.)         |
-| 🏭 Industry Relevance | Hands-on exposure to real-world semiconductor design methodologies        |
-| 🤝 Collaboration      | Contributing to India’s largest open-source RISC-V SoC tapeout initiative |
-| 📈 Scale              | 3500+ participants driving silicon innovation                             |
-| 🇮🇳 National Impact  | Strengthening India’s semiconductor ecosystem                             |
-
----
 
 ## 🙏 Acknowledgment
 
-Special thanks to **Kunal Ghosh** and the **VSD Team** for pioneering this opportunity and guiding thousands of participants in making open-source silicon a reality.
+## 🙏 Acknowledgment  
+
+Special thanks to [Kunal Ghosh](https://github.com/kunalg123) and the [**VSD Team**](https://vsdiat.vlsisystemdesign.com/) for pioneering this opportunity and guiding thousands of participants in making open-source silicon a reality.  
 
 ---
 
