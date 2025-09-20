@@ -94,7 +94,6 @@ iverilog -v
 
 > This command prints the installed Icarus Verilog version, confirming that the tool is successfully installed.
 
----
 
 <div align="center">
   <img width="600" alt="Icarus Verilog Installation Screenshot" src="https://github.com/user-attachments/assets/0e470569-d788-42b8-aabd-e272284ca15a" />
@@ -112,7 +111,7 @@ GTKWave: Look At Your Waveforms, Openly | Software ReviewGTKWave's purpose is to
 $ sudo apt update
 $ sudo apt install gtkwave
 ```
----
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/18cdb725-28d1-4150-ac15-69bfeedbf56f" width="800" alt="GTKWave Screenshot">
 </p>
@@ -156,7 +155,7 @@ $ ./configure
 $ make
 $ sudo make install
 ```
----
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/79a62a0e-defd-4e2d-ad05-de05cc44c2ae" width="500" alt="Magic Installation Screenshot">
   <br>
@@ -166,8 +165,9 @@ $ sudo make install
 ---
 
 <p align="center">
-  🎉 We are now ready to begin our journey in this VSD program! 
+  <h2>🎉 We are now ready to begin our journey in this VSD program!</h2>
 </p>
+
 
 <p align="center">
   🗂️ Repository: eda-tools-setup  
