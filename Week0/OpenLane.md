@@ -26,11 +26,6 @@ OpenLane is an **open-source RTL-to-GDSII flow** built on top of the \[OpenROAD 
 
 ---
 
-Got it ✅
-Here’s a **step-by-step installation guide for OpenLane** with headings, explanations, and the exact commands under each step:
-
----
-
 # 🏗️ OpenLane Installation Guide
 
 ### 🔹 Step 1: Update and upgrade your system
