@@ -75,5 +75,7 @@ Special thanks to <a href="https://github.com/kunalg123">Kunal Ghosh</a> and the
 
 <h2 align="center">👨‍💻 Participant</h2>
 <div align="center">
-  <a href="https://github.com/HandyLatcher">HandyLatcher</a>
+  <span style="display:inline-block;text-align:center;width:100%;">
+    <a href="https://github.com/HandyLatcher">HandyLatcher</a>
+  </span>
 </div>
