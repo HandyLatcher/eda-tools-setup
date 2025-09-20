@@ -1,6 +1,11 @@
+<div align="center">
 
+[![Program](https://img.shields.io/badge/Program-VSD%20SoC%20Tapeout-orange?style=for-the-badge)](https://vsdiat.vlsisystemdesign.com/)  
+[![Week 0](https://img.shields.io/badge/Week-0-blue?style=for-the-badge)](#)  
+[![Tools](https://img.shields.io/badge/Tools-Setup%20%26%20Installation-success?style=for-the-badge)](#)  
+
+</div>
 # 🛠️ Week 0 – Tool Installation & Setup
-[![VSD Program](https://img.shields.io/badge/VSD-SoC%20Tapeout-orange?style=for-the-badge&logo=gitbook)](https://vsdiat.vlsisystemdesign.com/)
 
 ## **1. Introduction** 📖
 
