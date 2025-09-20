@@ -138,6 +138,6 @@ $ sudo make install
 <p align="center">
   <img src="https://github.com/user-attachments/assets/536d2e06-ce20-4968-84dc-0dc557b54023" width="500" alt="Ngspice Installation Screenshot">
   <br>
-  <b🟢Ngspice was successfully installed</b>
+  <b>🟢Ngspice was successfully installed</b>
 </p>
  
