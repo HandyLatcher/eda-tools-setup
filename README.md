@@ -50,30 +50,21 @@ The first milestone was preparing the environment with essential tools:
 ---
 
 
-## 🙏 Acknowledgment  
+<p align="center">
 
-Special thanks to [Kunal Ghosh](https://github.com/kunalg123) and the [**VSD Team**](https://vsdiat.vlsisystemdesign.com/) for pioneering this opportunity and guiding thousands of participants in making open-source silicon a reality.  
-
----
+## 🙏 Acknowledgment
+Special thanks to [Kunal Ghosh](https://github.com/kunalg123) and the [**VSD Team**](https://vsdiat.vlsisystemdesign.com/) for pioneering this opportunity and guiding thousands of participants in making open-source silicon a reality.
 
 ## 📈 Progress Tracker
-
-* 📅 **Week 0** → Environment Setup & Tools ✅
-* 📅 **Week 1** → RTL Design Basics 🚧
-* 📅 **Week 2** → Logic Synthesis 🚧
-* 📅 …and beyond toward Tapeout 🚀
-
----
+📅 Week 0 → Environment Setup & Tools ✅  
+📅 Week 1 → RTL Design Basics 🚧  
+📅 Week 2 → Logic Synthesis 🚧  
+📅 …and beyond toward Tapeout 🚀  
 
 ## 🔗 Useful Links
+🌐 [VSD Official Website](https://vsdiat.vlsisystemdesign.com/)  
+🖥️ [RISC-V at Efabless](https://efabless.com)  
 
-* 🌐 [VSD Official Website](https://www.vlsisystemdesign.com)
-* 🖥️ [RISC-V at Efabless](https://efabless.com)
+🚀 We are now ready to begin our VSD SoC Tapeout journey!
 
----
-
-<p align="center">
-  🚀 We are now ready to begin our VSD SoC Tapeout journey!  
-</p>  
-
----
+</p>
