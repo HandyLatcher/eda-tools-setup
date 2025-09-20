@@ -96,12 +96,11 @@ iverilog -v
 
 ---
 
-**Optional Success Message with Emoji (centered and bold):**
-
-```html
 <div align="center">
-  <b>✅ Icarus Verilog was successfully installed!</b>
+  <img width="600" alt="Icarus Verilog Installation Screenshot" src="https://github.com/user-attachments/assets/0e470569-d788-42b8-aabd-e272284ca15a" />
 </div>
-```
+<div align="center">
+  <b>🟢Icarus Verilog was successfully installed!</b>
+</div>
 
 ---
