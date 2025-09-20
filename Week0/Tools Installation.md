@@ -61,5 +61,6 @@ $ make config-gcc
 $ make
 $ sudo make install 
 ```
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ae23e4b2-28af-4c79-9878-72b7cb97a402" />
+<img width="1185" height="576" alt="Image" src="https://github.com/user-attachments/assets/ff37c3f9-5dec-49f4-a54f-b3ea9084f3c3" />
+**Yosys was successfully installed**
 
