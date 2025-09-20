@@ -103,7 +103,7 @@ iverilog -v
 </div>
 
 ---
-### **3. Gtkwave** 
+### **3. Gtkwave🟨** 
 **Purpose:**
 GTKWave: Look At Your Waveforms, Openly | Software ReviewGTKWave's purpose is to serve as a waveform viewer
 **Installation Steps:**
@@ -121,7 +121,7 @@ $ sudo apt install gtkwave
 
 ---
 
-### **4. Ngspice – Circuit Simulator**
+### **4. Ngspice – Circuit Simulator🟪**
 **Purpose:**
  It acts as a free, open-source electronic circuit simulator
 **Installation Steps:**
@@ -142,7 +142,7 @@ $ sudo make install
 
 ---
 
-### **5. Magic – VLSI Layout Tool**
+### **5. Magic – VLSI Layout Tool🟥**
 **Purpose:**
 It is an open-source VLSI layout tool used for designing and verifying integrated circuits.
 
