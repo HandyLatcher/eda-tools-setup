@@ -74,7 +74,7 @@ The video also discussed **microprocessors vs microcontrollers** and their appli
 
 ---
 
-## **7. Key Takeaways**
+## **7. Important Notes**
 
 * Verification at every stage (**O1 = O2 = O3 = O4**) is essential.
 * Understanding **processor and peripheral blocks** is important for SoC design.
