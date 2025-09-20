@@ -164,7 +164,7 @@ $ sudo make install
 
 ---
 
-<p align="center" style="font-size:24px; font-weight:bold;">
+<p align="center" style="font-size:40px; font-weight:bold;">
   🎉 We are now ready to begin our journey in this VSD program!
 </p>
 
