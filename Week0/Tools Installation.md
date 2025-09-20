@@ -62,8 +62,12 @@ $ make
 $ sudo make install 
 ```
 <div align="center">
-  <img width="800" alt="Image" src="https://github.com/user-attachments/assets/ff37c3f9-5dec-49f4-a54f-b3ea9084f3c3" />
+  <img width="1029" height="574" alt="Image" src="https://github.com/user-attachments/assets/1821d3df-59b3-41f0-a0ea-f0c45a76db2b" />
 </div>
 
+<div align="center">
 **Yosys was successfully installed**
+</div>
+
+
 
