@@ -140,6 +140,7 @@ $ sudo make install
   <br>
   <b>🟢Ngspice was successfully installed</b>
 </p>
+
 ---
 
 ### **5. Magic – VLSI Layout Tool**
@@ -161,7 +162,7 @@ $ sudo make install
   <br>
   <b>🟢 Magic was installed successfully</b>
 </p>
-
+---
 <p align="center">
   🎉 We are now ready to begin our journey in this VSD program! 
 </p>
