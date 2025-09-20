@@ -30,7 +30,7 @@ Additionally, the tools will be installed and executed inside a **Virtual Machin
 
 ---
 
-# Tools for Week 0 Setup
+## **3. Tools for Week0 Setup⚙️
 
 This week focuses on installing the essential open-source tools for VLSI design. The tools include **Yosys** for RTL synthesis, **Icarus Verilog** for simulation, **GTKWave** for waveform analysis, **Ngspice** for circuit simulation, and **Magic VLSI** for layout design.
 
