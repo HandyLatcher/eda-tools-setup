@@ -162,7 +162,9 @@ $ sudo make install
   <br>
   <b>🟢 Magic was installed successfully</b>
 </p>
+
 ---
+
 <p align="center">
   🎉 We are now ready to begin our journey in this VSD program! 
 </p>
@@ -172,4 +174,6 @@ $ sudo make install
   <br>
   🎓 Program: VLSI System Design (VSD)
 </p>
+
+----
 
