@@ -1,5 +1,6 @@
 
 # 🛠️ Week 0 – Tool Installation & Setup
+[![VSD Program](https://img.shields.io/badge/VSD-SoC%20Tapeout-orange?style=for-the-badge&logo=gitbook)](https://vsdiat.vlsisystemdesign.com/)
 
 ## **1. Introduction** 📖
 
