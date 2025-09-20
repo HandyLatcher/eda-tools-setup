@@ -161,7 +161,14 @@ $ sudo make install
   <br>
   <b>🟢 Magic was installed successfully</b>
 </p>
-
-
-
- 
+---
+<p align="center">
+  🎉 We are now ready to begin our journey in this VSD program! 
+</p>
+---
+<p align="center">
+  🗂️ Repository: eda-tools-setup  
+  <br>
+  🎓 Program: VLSI System Design (VSD)
+</p>
+---
