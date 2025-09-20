@@ -13,7 +13,7 @@ This includes:
 
 The program aims to provide hands-on experience in the **RTL → GDSII design flow**, using open-source tools to understand the complete VLSI process.
 
-
+---
 
 ## **2. System Requirements** 💻
 
@@ -27,8 +27,6 @@ To run the required tools smoothly, the following **system configuration** is re
 | **vCPU**             | 4                |
 
 Additionally, the tools will be installed and executed inside a **Virtual Machine (VM)** using **Oracle VirtualBox**.
-
-Alright 👍 here’s a **short and neat version in a few lines**:
 
 ---
 
