@@ -21,11 +21,19 @@ To run the required tools smoothly, the following **system configuration** is re
 
 | Component            | Specification    |
 | -------------------- | ---------------- |
-| **Operating System** | Ubuntu 20.04+ 🐧 |
-| **RAM**              | 6 GB 💾          |
-| **Storage**          | 50 GB HDD 💿     |
-| **vCPU**             | 4 ⚡             |
+| **Operating System** | Ubuntu 20.04+    |
+| **RAM**              | 6 GB             |
+| **Storage**          | 50 GB HDD        |
+| **vCPU**             | 4                |
 
 Additionally, the tools will be installed and executed inside a **Virtual Machine (VM)** using **Oracle VirtualBox**.
 
+Alright 👍 here’s a **short and neat version in a few lines**:
 
+---
+
+# Tools for Week 0 Setup
+
+This week focuses on installing the essential open-source tools for VLSI design. The tools include **Yosys** for RTL synthesis, **Icarus Verilog** for simulation, **GTKWave** for waveform analysis, **Ngspice** for circuit simulation, and **Magic VLSI** for layout design.
+
+---
