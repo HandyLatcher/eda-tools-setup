@@ -50,7 +50,6 @@ The first milestone was preparing the environment with essential tools:
 ---
 
 
-<p align="center">
 <h2 align="center">🙏 Acknowledgment</h2>
 <p align="center">
 Special thanks to <a href="https://github.com/kunalg123">Kunal Ghosh</a> and the <a href="https://vsdiat.vlsisystemdesign.com/">VSD Team</a> for pioneering this opportunity and guiding thousands of participants in making open-source silicon a reality.
@@ -72,4 +71,9 @@ Special thanks to <a href="https://github.com/kunalg123">Kunal Ghosh</a> and the
 
 <p align="center">
 🚀 We are now ready to begin our VSD SoC Tapeout journey!
+</p>
+
+<h2 align="center">👨‍💻 Participant</h2>
+<p align="center">
+HandyLatcher
 </p>
