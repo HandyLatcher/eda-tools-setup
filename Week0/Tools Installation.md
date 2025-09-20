@@ -68,13 +68,13 @@ make
 
 # Install Yosys
 sudo make install
-```
+
 
 **Verification:**
 
 ```bash
 yosys -V
-```
+
 
 > This command prints the installed Yosys version, confirming that the tool is successfully installed.
 
