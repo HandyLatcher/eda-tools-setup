@@ -61,3 +61,4 @@ $ make config-gcc
 $ make
 $ sudo make install 
 ```
+file:///C:/Users/aryan/OneDrive/Pictures/Screenshots/Screenshot%202025-09-19%20025713.png
