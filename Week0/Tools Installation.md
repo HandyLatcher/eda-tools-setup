@@ -104,3 +104,47 @@ iverilog -v
 </div>
 
 ---
+### **3. Gtkwave** 
+**Purpose:**
+GTKWave: Look At Your Waveforms, Openly | Software ReviewGTKWave's purpose is to serve as a waveform viewer
+**Installation Steps:**
+```bash
+$ sudo apt update
+$ sudo apt install gtkwave
+```
+---
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/18cdb725-28d1-4150-ac15-69bfeedbf56f" width="800" alt="GTKWave Screenshot">
+</p>
+<div align="center">
+  <b>🟢GTKWave was successfully installed</b>
+</div>
+
+---
+
+### **4. Ngspice – Circuit Simulator**
+**Purpose:**
+ It acts as a free, open-source electronic circuit simulator
+**Installation Steps:**
+```bash
+$ tar -zxvf ngspice-37.tar.gz
+$ cd ngspice-37
+$ mkdir release
+$ cd release
+$ ../configure --with-x --with-readline=yes --disable-debug
+$ make
+$ sudo make install
+```
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/536d2e06-ce20-4968-84dc-0dc557b54023" width="500" alt="Ngspice Installation Screenshot">
+  <br>
+  <b>>🟢Ngspice was successfully installed</b>
+</p>
+---
+
+
+
+
+ 
+
+
